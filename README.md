@@ -4,6 +4,8 @@
 
 ## Используемые технологии
 
-1.HTML 2.CSS 3.ReactJs
+1.HTML 
+2.CSS
+3.ReactJs
 
 # https://maksim-pp.github.io/Popup/
